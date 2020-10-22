@@ -12,11 +12,13 @@ namespace Code.Controllers{
 
       }
 
+      
       [HttpGet]
       public ActionResult Get(){
           return Ok(dbConexion.Empleados.ToArray());
       }
-      
+
+
     [HttpGet ("{id}")]
 
     public async Task<ActionResult> Get(int id){
@@ -68,5 +70,8 @@ public async Task<ActionResult> Delete(int id){
 
 
 
-    } 
+    }
+
+ 
+
 }

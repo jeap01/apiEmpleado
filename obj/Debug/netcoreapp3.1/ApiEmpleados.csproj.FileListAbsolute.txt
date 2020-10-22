@@ -50,3 +50,4 @@ C:\Users\i14i34500w10\Desktop\ApiEmpleados\bin\Debug\netcoreapp3.1\System.Securi
 C:\Users\i14i34500w10\Desktop\ApiEmpleados\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
 C:\Users\i14i34500w10\Desktop\ApiEmpleados\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\i14i34500w10\Desktop\ApiEmpleados\obj\Debug\netcoreapp3.1\ApiEmpleados.csproj.CopyComplete
+C:\Users\i14i34500w10\Desktop\ApiEmpleados\bin\Debug\netcoreapp3.1\package-lock.json

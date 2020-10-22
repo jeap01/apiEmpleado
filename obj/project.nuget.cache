@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "amceFS47i9Hae2mhucA+fdKDaeiQtCKuXhvnBLkFP0U8oS7GCMvMGqDavhxHSQu/qqYaBB5EhNf6mqRBtzf4+g==",
+  "dgSpecHash": "WoLng4LblxIEv6qagZh2eQCSxNvpk0RTOojj+gBJhPbvDqYshd3KPsPFVTAsQsoDP4lfYx364cS7XrGPFr+J2Q==",
   "success": true,
-  "projectFilePath": "c:\\Users\\i14i34500w10\\Desktop\\ApiEmpleados\\ApiEmpleados.csproj",
+  "projectFilePath": "C:\\Users\\i14i34500w10\\Desktop\\ApiEmpleados\\ApiEmpleados.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\i14i34500w10\\.nuget\\packages\\bouncycastle.netcore\\1.8.3\\bouncycastle.netcore.1.8.3.nupkg.sha512",
     "C:\\Users\\i14i34500w10\\.nuget\\packages\\google.protobuf\\3.6.1\\google.protobuf.3.6.1.nupkg.sha512",

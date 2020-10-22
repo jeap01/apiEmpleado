@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\i14i34500w10\\Desktop\\ApiEmpleados\\ApiEmpleados.csproj": {}
+    "C:\\Users\\i14i34500w10\\Desktop\\ApiEmpleados\\ApiEmpleados.csproj": {}
   },
   "projects": {
-    "c:\\Users\\i14i34500w10\\Desktop\\ApiEmpleados\\ApiEmpleados.csproj": {
+    "C:\\Users\\i14i34500w10\\Desktop\\ApiEmpleados\\ApiEmpleados.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\i14i34500w10\\Desktop\\ApiEmpleados\\ApiEmpleados.csproj",
+        "projectUniqueName": "C:\\Users\\i14i34500w10\\Desktop\\ApiEmpleados\\ApiEmpleados.csproj",
         "projectName": "ApiEmpleados",
-        "projectPath": "c:\\Users\\i14i34500w10\\Desktop\\ApiEmpleados\\ApiEmpleados.csproj",
+        "projectPath": "C:\\Users\\i14i34500w10\\Desktop\\ApiEmpleados\\ApiEmpleados.csproj",
         "packagesPath": "C:\\Users\\i14i34500w10\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\i14i34500w10\\Desktop\\ApiEmpleados\\obj\\",
+        "outputPath": "C:\\Users\\i14i34500w10\\Desktop\\ApiEmpleados\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\i14i34500w10\\AppData\\Roaming\\NuGet\\NuGet.Config",
